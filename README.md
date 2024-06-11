@@ -17,7 +17,7 @@ pip install requests beautifulsoup4 pandas openpyxl
 
 
 
-###Functions
+### Functions
 
 # get_random_user_agent()
 Returns a random User-Agent from the list to mimic different browsers.

@@ -13,7 +13,6 @@ Before running the script, ensure you have the following Python libraries instal
 
 You can install them using pip:
 
-```bash
 pip install requests beautifulsoup4 pandas openpyxl
 
 #Functions

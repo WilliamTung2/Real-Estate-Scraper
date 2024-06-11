@@ -35,5 +35,9 @@ Scrapes multiple pages of data from Trulia, iterating through the specified numb
 The main() function orchestrates the scraping process, cleans the data to remove N/A values, and saves the data to an Excel file.
 
 # Notes
+
+Scraper.ipynb and scraper.py are the same exact thing just in different formats
+
 Adjust the number of pages to scrape by changing the num_pages variable in the main() function.
+
 Inspect page_content.html if the script fails to scrape data correctly. This file logs the HTML content for debugging purposes.

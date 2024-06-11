@@ -1,4 +1,4 @@
-### Real Estate Data Scraper for Trulia
+### Real Estate Data Scraper for Trulia ###
 
 This script scrapes real estate data from Trulia and saves it to an Excel file. It uses Python libraries such as `requests`, `BeautifulSoup`, and `pandas` to fetch and process the data. The script also handles potential blocking by rotating user agents and adding delays between requests.
 
@@ -15,7 +15,7 @@ You can install them using pip:
 
 pip install requests beautifulsoup4 pandas openpyxl
 
-#Functions
+###Functions
 # get_random_user_agent()
 Returns a random User-Agent from the list to mimic different browsers.
 

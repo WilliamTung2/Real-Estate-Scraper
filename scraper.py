@@ -110,7 +110,7 @@ def scrape_trulia(base_url, num_pages):
 # Main function to run the scraper
 def main():
     base_url = 'https://www.trulia.com/NY/New_York/'
-    num_pages = 10  # Set the number of pages to scrape
+    num_pages = 15  # Set the number of pages to scrape
 
     addresses, beds, baths, prices = scrape_trulia(base_url, num_pages)
 
